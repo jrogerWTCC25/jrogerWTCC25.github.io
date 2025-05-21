@@ -1,3 +1,4 @@
+# README
 <h3>About Me</h3>
 My name is Joseph! I'm a new student at Wake Tech and have a small bit of tech knowledge going into it. One interesting thing about me is that I'm a fairly prominent coach in a Nintendo esports community. I really got to discover my love for teaching and learning there! And the free trips for winning competitions can be pretty great too :p
 
