@@ -16,7 +16,7 @@ Firewall -)BotNet: Firewall detects suspicious<br/>activity and blocks incoming<
 Note over BotNet,Firewall: "Suspicious activity" could be an abnormal<br/>amount of traffic from a single IP, strange timing<br/>of requests (such as once every 2 minutes, 24/7), etc
 
 ```
-The order of events in the diagram is as follows:  
+### The order of events in the diagram is as follows:  
  1. An **Attacker** obtains bot accounts with the intention of DDoSing a **Webserver**. These bot accounts can be bought or hacked as a sevice online or configured from their own network with devices they own. All of these bot accounts combined are called a **BotNet**.  
  2. The attacker, through their botnet, sends out a ton of requests to the victim webserver. Normally it's a short request that requires the server to give a lengthy response. For example, a simple HTTP request. It's much more expensive for the server to respond to the botnet than it is for each individual bot to send the request.  
  3. The spam of expensive requests causes the webserver to "jam" while trying to respond to each one. Because it can no longer keep up with the amount of requests, it will eventually cause a Denial-of-Service to webserver traffic. This directly affects all traffic to the webserver, preventing real users from accessing it, effectively crashing the website.  
