@@ -1,14 +1,14 @@
 # About Me  
 My name is Joseph!  
-I'm a new student at Wake Tech and have a small bit of tech knowledge going into it. I love music, skating, and gaming, especially with friends! One interesting thing about me is that I'm a fairly prominent coach in a Nintendo esports community. I really got to discover my love for teaching and learning there! And the free trips for winning competitions can be pretty great too! :p
+I'm a new student at Wake Tech and have a small bit of tech knowledge going into it. I love music, skating, and gaming, especially with friends! One interesting thing about me is that I'm a fairly prominent coach in a Nintendo esports community. I really got to discover my love for teaching and learning there! And the free trips for winning competitions can be pretty great too! 🥇 :p
 
 ## My Hobbies  
-* Coaching teams in my free time
-* Playing co-op games with friends (_Minecraft, Helldivers 2, etc_)
-* Learning new things, especially related to tech
-* Scouring through the lore of Genshin Impact
-* Skateboarding (_Though I'm __very__ new to it_)
-* Watching awesome creators on Youtube
+* 🔫 Coaching Splatoon teams in my free time
+* 🎮 Playing co-op games with friends (_Minecraft, Helldivers 2, etc_)
+* ✍️ Learning new things, especially related to tech
+* 📖 Scouring through the lore of Genshin Impact
+* 🛹 Skateboarding (_Though I'm __very__ new to it_)
+* 📺 Watching awesome creators on Youtube
 
 ## Some of my favorite online creators
 One of the _best_ resources for knowledge in my opinion is [Youtube](https://www.youtube.com). A few notable ones that pertain to my interests are:  
