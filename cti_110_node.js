@@ -14,6 +14,15 @@ const connectionString = `postgres://postgres:CTI_110_WakeTech@localhost/Gradebo
 // The default database name is Gradebook
 const pool = new Pool({connectionString:connectionString})
 
+// 👇 Test database connection immediately
+pool.query('SELECT NOW()', (err, res) => {
+  if (err) {
+    console.error('❌ Database connection error:', err);
+  } else {
+    console.log('✅ Database is alive. Current time:', res.rows[0].now);
+  }
+});
+
 // This line says when it's looking for a file linked locally,
 // check in sub-folder "public"
 app.use(express.static(path.join(__dirname, 'public')));
